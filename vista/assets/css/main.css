@@ -1,0 +1,33 @@
+* {
+    font-family: "calibri", Garamond, 'Comic Sans';
+   
+	padding:0;
+	margin:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {background:#FFFFFF;
+font-size: 12px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.navbar{
+	
+	font-size: 18px;
+}
+.table{
+	font-size: 15px;
+}
+.alert{
+	font-size: 12px;
+}
+
+
